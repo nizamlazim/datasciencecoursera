@@ -1,3 +1,3 @@
 ## R Programming Tutorial
-list https://www.tutorialspoint.com/r/r_variables.htm
-list https://www.r-project.org/
+- https://www.tutorialspoint.com/r/r_variables.htm
+- https://www.r-project.org/
